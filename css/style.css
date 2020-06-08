@@ -1,7 +1,9 @@
 html,body{
 	height: 98%;
+	max-width: 1360px;
 	width: 100%;
 	overflow: hidden;
+	margin: 0 auto;
 }
 
 body{
@@ -53,7 +55,7 @@ body{
 	background: #FFFFFF;
 	border: 1px solid #93278F;
 	display: inline-block;
-	margin-right: 76px;
+	margin-right: 6.5%;
 	padding: 2%;
 }
 
